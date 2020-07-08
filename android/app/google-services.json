@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1029777644132",
+    "firebase_url": "https://e-commerce-template-46c6b.firebaseio.com",
+    "project_id": "e-commerce-template-46c6b",
+    "storage_bucket": "e-commerce-template-46c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029777644132:android:0a92b39fa8e24dd3de9d71",
+        "android_client_info": {
+          "package_name": "com.example.flutter_twitch_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029777644132-j22ok4e5s4jqd39kopppjmisq71f9c3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKgDBpUKzxxWeyrzm9RDJ2qpOwqRymVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029777644132-j22ok4e5s4jqd39kopppjmisq71f9c3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
